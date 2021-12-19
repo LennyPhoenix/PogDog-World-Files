@@ -21,6 +21,6 @@ There are two folders, one for the survival server, and one for the creative ser
 - Do the same with the `world_the_end/` folder, naming it `the_end/`.
 - Copy the `world/` folder into your Minecraft worlds folder, renaming it to something recognisable (e.g. "PogDog Survival").
   - The Minecraft worlds folder will be located at either:
-    - Windows: `C:\Users\YOUR_USERNAME\AppData\Roaming\.minecraft\worlds\`
-    - Or Linux: `~/.minecraft/worlds/`
+    - Windows: `C:\Users\YOUR_USERNAME\AppData\Roaming\.minecraft\saves\`
+    - Or Linux: `~/.minecraft/saves/`
 - Load the world up and enjoy!
