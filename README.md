@@ -17,8 +17,8 @@ There are two folders, one for the survival server, and one for the creative ser
 ## Converting to Singleplayer
 
 - Download the world you want to play.
-- Copy the `world_nether/` folder into the `world/` folder as `nether/`.
-- Do the same with the `world_the_end/` folder, naming it `the_end/`.
+- Copy the `world_nether/DIM-1` folder into the `world/` folder (as `DIM-1`).
+- Do the same with the `world_the_end/DIM1` folder, naming it `DIM1/`.
 - Copy the `world/` folder into your Minecraft worlds folder, renaming it to something recognisable (e.g. "PogDog Survival").
   - The Minecraft worlds folder will be located at either:
     - Windows: `C:\Users\YOUR_USERNAME\AppData\Roaming\.minecraft\saves\`
